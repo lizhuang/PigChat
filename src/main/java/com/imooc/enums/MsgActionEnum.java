@@ -1,8 +1,8 @@
 package com.imooc.enums;
 
 /**
- * 
- * @Description: 发送消息的动作 枚举
+ * 发送消息的动作 枚举
+ * @author user
  */
 public enum MsgActionEnum {
 	
